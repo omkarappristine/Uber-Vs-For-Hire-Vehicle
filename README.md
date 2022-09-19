@@ -5,6 +5,8 @@
 To have a look at the code, access the link below
 http://rpubs.com/Opawar/882633
 
+The final outcome for the data analysis showed a pattern where we can analyse how they are normalised
+
 ![trend](https://user-images.githubusercontent.com/46810864/190956734-117739da-eb18-45f1-bc6b-840f6fc9f028.png)
 
 
